@@ -1,1 +1,0 @@
-# PQDB-Hardware
