@@ -1,0 +1,479 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 29-04-2015 11:20:02
+
+BeginCmp
+TimeStamp = /542BF044;
+Reference = BT701;
+ValeurCmp = CR2032;
+IdModule  = HW_CR2032H;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0A4;
+Reference = BZ201;
+ValeurCmp = BUZZER;
+IdModule  = HW_Buzzer;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF046;
+Reference = C701;
+ValeurCmp = 10nF;
+IdModule  = HW_CAPACITOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473D760;
+Reference = D101;
+ValeurCmp = DIODE;
+IdModule  = HW_D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473D777;
+Reference = D102;
+ValeurCmp = DIODE;
+IdModule  = HW_D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473D77D;
+Reference = D103;
+ValeurCmp = DIODE;
+IdModule  = HW_D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473D783;
+Reference = D104;
+ValeurCmp = DIODE;
+IdModule  = HW_D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473D789;
+Reference = D105;
+ValeurCmp = DIODE;
+IdModule  = HW_D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54403F72;
+Reference = LDR201;
+ValeurCmp = LDR;
+IdModule  = HW_LDR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510635A;
+Reference = Q101;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /55106399;
+Reference = Q102;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FF2EBF;
+Reference = Q201;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF095;
+Reference = Q301;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF091;
+Reference = Q302;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF08D;
+Reference = Q303;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF03E;
+Reference = Q304;
+ValeurCmp = BC847;
+IdModule  = HW_TO92-213;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510692F;
+Reference = R101;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510691A;
+Reference = R102;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5511701D;
+Reference = R103;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /55117023;
+Reference = R104;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF060;
+Reference = R201;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0BF;
+Reference = R202;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF070;
+Reference = R301;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF06D;
+Reference = R302;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF06A;
+Reference = R303;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF067;
+Reference = R304;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0A2;
+Reference = R305;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF09F;
+Reference = R306;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF09C;
+Reference = R307;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF099;
+Reference = R308;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF094;
+Reference = R309;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF090;
+Reference = R310;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF08C;
+Reference = R311;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF03D;
+Reference = R312;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /54735536;
+Reference = R401;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF050;
+Reference = R402;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF04F;
+Reference = R403;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF04E;
+Reference = R404;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF051;
+Reference = R405;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF05B;
+Reference = R406;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF052;
+Reference = R407;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF053;
+Reference = R408;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5540EAE9;
+Reference = R409;
+ValeurCmp = 0R;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473DCBD;
+Reference = R501;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473DCC3;
+Reference = R502;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473DCC9;
+Reference = R503;
+ValeurCmp = 1k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5540E13D;
+Reference = R601;
+ValeurCmp = 0R;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /55116C25;
+Reference = R701;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /55116C30;
+Reference = R702;
+ValeurCmp = 10k;
+IdModule  = HW_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFADBA;
+Reference = RGB501;
+ValeurCmp = ASMT-YTC2-0AA02;
+IdModule  = HW_LED-5MM-RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0C3;
+Reference = RV201;
+ValeurCmp = POT;
+IdModule  = HW_Potenciometro_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF057;
+Reference = RV401;
+ValeurCmp = POT;
+IdModule  = HW_Potenciometro_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54731488;
+Reference = SHIELD801;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO_SHIELD_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /543F8226;
+Reference = SW101;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B77;
+Reference = SW102;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0AA;
+Reference = SW103;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B5F;
+Reference = SW104;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0AB;
+Reference = SW105;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B65;
+Reference = SW106;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0AC;
+Reference = SW107;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B6B;
+Reference = SW108;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF0AD;
+Reference = SW109;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B71;
+Reference = SW110;
+ValeurCmp = BTN-01;
+IdModule  = HW_Switch_tactil_adaptada;
+EndCmp
+
+BeginCmp
+TimeStamp = /544043E7;
+Reference = U301;
+ValeurCmp = KW4-361;
+IdModule  = HW_Disp_7seg_4dig;
+EndCmp
+
+BeginCmp
+TimeStamp = /5446540A;
+Reference = U401;
+ValeurCmp = DISPLAY_JHD162A;
+IdModule  = HW_LCD;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF08B;
+Reference = U601;
+ValeurCmp = 74HC595;
+IdModule  = HW_DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /543FF658;
+Reference = U701;
+ValeurCmp = DS1307Z;
+IdModule  = HW_DIP-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /542BF047;
+Reference = X701;
+ValeurCmp = 32.768 KHz;
+IdModule  = HW_Crystal_32768;
+EndCmp
+
+EndListe

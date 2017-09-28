@@ -1,0 +1,86 @@
+EESchema-DOCLIB  Version 2.0  Date: 21-10-2014 12:03:17
+#
+$CMP BARREL_JACK
+D DC Barrel Jack
+$ENDCMP
+#
+$CMP BC546
+D BC546, 65V Vce, 0.1A Ic, NPN, Small Signal Transistor,TO-92
+K BC546 NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC547
+D BC547, 45V Vce, 0.1A Ic, NPN, Small Signal Transistor,TO-92
+K BC547 NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC548
+D BC548, 30V Vce, 0.1A Ic, NPN, Small Signal Transistor,TO-92
+K BC548 NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC549
+D BC549, 30V Vce, 0.1A Ic, NPN, Small Signal Transistor,TO-92
+K BC549 NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC550
+D BC550, 45V Vce, 0.1A Ic, NPN, Small Signal Transistor,TO-92
+K BC550 NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC849
+D BC849, 30V Vce, 0.1A Ic, Low noise, NPN, SOT-23
+K NPN Low Noise Small Signal Transistor
+F http://www.fairchildsemi.com/ds/BC/BC850.pdf
+$ENDCMP
+#
+$CMP BC850
+D BC850, 45V Vce, 0.1A Ic, Low noise, NPN, SOT-23
+K NPN Low Noise Small Signal Transistor
+F http://www.fairchildsemi.com/ds/BC/BC850.pdf
+$ENDCMP
+#
+$CMP Cap_Pol
+D Condensateur polarise
+$ENDCMP
+#
+$CMP Capacitor
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP CONN_3X2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_6
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP DIODESCH
+D Diode schottky
+K DEV DIODE
+$ENDCMP
+#
+$CMP FT232RL
+D USB to serial interface
+K USB
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP POT
+D Potentionmetre
+K R
+$ENDCMP
+#
+#End Doc Library
