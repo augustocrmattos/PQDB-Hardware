@@ -83,4 +83,9 @@ D Potentionmetre
 K R
 $ENDCMP
 #
+$CMP POT_DUPLO
+D Potentionmetre
+K R
+$ENDCMP
+#
 #End Doc Library
