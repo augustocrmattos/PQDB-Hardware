@@ -1,4 +1,4 @@
-update=15/09/2015 16:58:26
+update=13/11/2017 22:14:50
 version=1
 last_client=kicad
 [cvpcb]
@@ -49,6 +49,18 @@ LibName19=elt031
 LibName20=Vocanson_display
 LibName21=HW_Footprints
 LibName22=Crystals_RevB_25Apr2012
+[general]
+version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=bibliotecas
@@ -83,15 +95,3 @@ LibName27=valves
 LibName28=74xx
 LibName29=HW_Library
 LibName30=arduino_shieldsNCL
-[general]
-version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60

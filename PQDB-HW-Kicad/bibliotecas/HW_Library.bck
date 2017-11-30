@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 21-10-2014 12:02:47
+EESchema-DOCLIB  Version 2.0
 #
 $CMP BARREL_JACK
 D DC Barrel Jack
@@ -46,14 +46,6 @@ K NPN Low Noise Small Signal Transistor
 F http://www.fairchildsemi.com/ds/BC/BC850.pdf
 $ENDCMP
 #
-$CMP Cap_Pol
-D Condensateur polarise
-$ENDCMP
-#
-$CMP Capacitor
-D Condensateur non polarise
-$ENDCMP
-#
 $CMP CONN_3X2
 D Symbole general de connecteur
 K CONN
@@ -62,6 +54,14 @@ $ENDCMP
 $CMP CONN_6
 D ymbole general de connecteur
 K CONN
+$ENDCMP
+#
+$CMP Cap_Pol
+D Condensateur polarise
+$ENDCMP
+#
+$CMP Capacitor
+D Condensateur non polarise
 $ENDCMP
 #
 $CMP DIODESCH
